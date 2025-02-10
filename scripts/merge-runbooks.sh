@@ -3,7 +3,6 @@ set -euo pipefail
 
 # Get and export the current date in YYYYMMDD format
 date=$(date +%Y%m%d)
-echo "date=$date" >> $GITHUB_ENV
 
 dest_dir="runbooks-${date}"
 # Remove the destination directory if it already exists
