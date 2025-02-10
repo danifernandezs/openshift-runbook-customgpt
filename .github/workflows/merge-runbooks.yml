@@ -13,7 +13,7 @@ jobs:
 
       - name: Merging Runbooks
         id: redhat_runbooks
-        run: ./scripts/merge-runbooks.sh
+        run: bash ./scripts/merge-runbooks.sh
 
       - name: Commit and Push Changes
         run: |
