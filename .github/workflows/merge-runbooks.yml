@@ -17,6 +17,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
+          date=$(date +%Y%m%d)
+
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add .
