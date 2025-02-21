@@ -13,6 +13,6 @@ Contributions are welcome.
 
 ## License
 
-This work is under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Please read the [LICENSE](LICENSE) file for more details.
+Please read the [LICENSE](LICENSE.txt) file for more details.
