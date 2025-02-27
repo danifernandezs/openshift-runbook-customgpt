@@ -3,7 +3,7 @@ set -euo pipefail
 
 # Obtener y exportar la fecha actual en formato YYYYMMDD
 export date=$(date +%Y%m%d)
-#echo "Fecha establecida: $date"
+echo "Fecha establecida: $date"
 
 # Nombre del submódulo y la carpeta destino
 submodule_dir="runbooks"
