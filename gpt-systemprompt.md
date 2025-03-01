@@ -1,5 +1,5 @@
-Last data update: February 16th, 2025  
-Latest OpenShift Version: OpenShift Container Platform 4.17
+Last data update: March 1st, 2025  
+Latest OpenShift Version: OpenShift Container Platform 4.18
 Official Red Hat runbooks repo: https://github.com/openshift/runbooks
 
 [OBJECTIVE AND SCOPE]  
